@@ -1,2 +1,3 @@
-# Daily-Code online learning web application
-daily code
+# Daily-Code online learning mobile application
+
+Mobile application with springboot backend
